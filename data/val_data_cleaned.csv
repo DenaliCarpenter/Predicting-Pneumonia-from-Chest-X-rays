@@ -1,0 +1,17 @@
+image_path,label,hash
+chest_xray/val/NORMAL/NORMAL2-IM-1440-0001.jpeg,NORMAL,893eba9f80c3df961de6e78ae6bbd52e
+chest_xray/val/NORMAL/NORMAL2-IM-1437-0001.jpeg,NORMAL,6726a94357baccc478fe6811bb7fdcea
+chest_xray/val/NORMAL/NORMAL2-IM-1431-0001.jpeg,NORMAL,ef481bc4dfdeaca924ae8515562558d0
+chest_xray/val/NORMAL/NORMAL2-IM-1436-0001.jpeg,NORMAL,41edb3e856fc0f24520c5f90dc759788
+chest_xray/val/NORMAL/NORMAL2-IM-1430-0001.jpeg,NORMAL,bd8fa40c06dc7af76a3152e74aa2df65
+chest_xray/val/NORMAL/NORMAL2-IM-1438-0001.jpeg,NORMAL,78ec23207f3f763ce2e2a02d4d14ea45
+chest_xray/val/NORMAL/NORMAL2-IM-1442-0001.jpeg,NORMAL,48b2132d2f3048ca409fa35fe75afa51
+chest_xray/val/NORMAL/NORMAL2-IM-1427-0001.jpeg,NORMAL,a7d65d30ba7a639a017aa7d2c6fdc28a
+chest_xray/val/PNEUMONIA/person1950_bacteria_4881.jpeg,PNEUMONIA,03d5127c43f7ef89c2f4b7fc4a9077b6
+chest_xray/val/PNEUMONIA/person1951_bacteria_4882.jpeg,PNEUMONIA,3c882c75d23846a991006d3e5537410f
+chest_xray/val/PNEUMONIA/person1952_bacteria_4883.jpeg,PNEUMONIA,0ad69333b90345d3d3ee9b8d888ae2c2
+chest_xray/val/PNEUMONIA/person1946_bacteria_4874.jpeg,PNEUMONIA,ea8d5e72b46814e9887afe4f5a67e226
+chest_xray/val/PNEUMONIA/person1947_bacteria_4876.jpeg,PNEUMONIA,298b6b335c4c4bc67eb5803a9d2b6e6e
+chest_xray/val/PNEUMONIA/person1946_bacteria_4875.jpeg,PNEUMONIA,1f42a336b0048e8a4b39adeb452e1a1b
+chest_xray/val/PNEUMONIA/person1949_bacteria_4880.jpeg,PNEUMONIA,7c43647e7883dc382e4fdcf9519eb620
+chest_xray/val/PNEUMONIA/person1954_bacteria_4886.jpeg,PNEUMONIA,1cb589aa7712cc3a23c919cdc5e3c233
