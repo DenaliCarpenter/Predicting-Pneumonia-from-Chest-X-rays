@@ -49,9 +49,9 @@ The project workflow involves:
 | SVM (Base)   | 0.7039   | 0.6802    | 0.9948  | 0.8080   |
 | SVM (Tuned)  | 0.6958   | 0.6743    | 0.9948  | 0.8038   |
 | Ensemble RF  | 0.6942   | 0.6725    | 0.9974  | 0.8030   |
-| CNN (Base)   | 0.8835   | 0.8889    | 0.9302  | 0.9091   |
+| CNN (Base)   | 0.8835   | 0.8795    | 0.9432  | 0.9102   |
 | VGG16        | 0.9482   | 0.9361    | 0.9845  | 0.9597   |
-| DenseNet121  | 0.8786   | 0.8578    | 0.9664  | 0.9089   |
+| DenseNet121  | 0.8803   | 0.8581    | 0.9690  | 0.9102   |
 
 - Baseline Models:
 	- Traditional methods (Random Forest and SVM) achieved accuracies around 69–70%.
