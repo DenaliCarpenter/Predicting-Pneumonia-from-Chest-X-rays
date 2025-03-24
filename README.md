@@ -59,6 +59,8 @@ The project workflow involves:
 	- A custom CNN achieved an accuracy of about 88%.
 	- The fine-tuned VGG16 model delivered nearly 95% accuracy with high recall (over 98%) and precision, indicating its potential for reliable clinical screening.
          -  ![alt text](images/VGG16_ROC.png 'VGG16 ROC Testing Set')
+         -  A ROC curve is a simple graph that shows how well a test or model distinguishes between two groups (e.g. PNEUMONIA and NORMAL). It helps you see the balance between catching the right cases and avoiding false alarms.
+         -  The AUC score (Area Under the Curve) summarizes how well a model distinguishes between classes across all threshold values. A higher AUC means the model is better at correctly identifying positives and negatives, with 1 being perfect and 0.5 representing random guessing.
 - Interpretation:
 	- The high recall of the best model minimizes false negatives—a critical attribute for medical diagnostics.
 	- Feature importance analysis further validated the relevance of texture and frequency-based features in distinguishing pneumonia cases.
