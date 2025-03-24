@@ -39,6 +39,20 @@ The project workflow involves:
 
 ## Results
 
+**Performance Metrics for Models**
+
+| Model        | Accuracy | Precision | Recall  | F1 Score |
+|--------------|----------|-----------|---------|----------|
+| Dummy        | 0.6262   | 0.6262    | 1.0000  | 0.7701   |
+| RF (Base)    | 0.6893   | 0.6690    | 0.9974  | 0.8152   |
+| RF (Tuned)   | 0.6942   | 0.6727    | 0.9974  | 0.8037   |
+| SVM (Base)   | 0.7039   | 0.6802    | 0.9948  | 0.8080   |
+| SVM (Tuned)  | 0.6958   | 0.6743    | 0.9948  | 0.8038   |
+| Ensemble RF  | 0.6942   | 0.6725    | 0.9974  | 0.8030   |
+| CNN (Base)   | 0.8835   | 0.8889    | 0.9302  | 0.9091   |
+| VGG16        | 0.9482   | 0.9361    | 0.9845  | 0.9597   |
+| DenseNet121  | 0.8786   | 0.8578    | 0.9664  | 0.9089   |
+
 - Baseline Models:
 	- Traditional methods (Random Forest and SVM) achieved accuracies around 69–70%.
 - Deep Learning Models:
