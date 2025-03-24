@@ -58,6 +58,7 @@ The project workflow involves:
 - Deep Learning Models:
 	- A custom CNN achieved an accuracy of about 88%.
 	- The fine-tuned VGG16 model delivered nearly 95% accuracy with high recall (over 98%) and precision, indicating its potential for reliable clinical screening.
+         -  ![alt text](images/VGG16_ROC.png 'VGG16 ROC Testing Set')
 - Interpretation:
 	- The high recall of the best model minimizes false negatives—a critical attribute for medical diagnostics.
 	- Feature importance analysis further validated the relevance of texture and frequency-based features in distinguishing pneumonia cases.
