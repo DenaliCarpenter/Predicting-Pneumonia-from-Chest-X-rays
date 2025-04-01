@@ -80,7 +80,7 @@ The project workflow involves:
 ## Outline of Project
 - Notebook 1: [Exploratory Data Analysis (EDA) and Baseline Model](https://github.com/DenaliCarpenter/Predicting-Pneumonia-from-Chest-X-rays/blob/main/EDA%20and%20Initial%20Model.ipynb)
 - Notebook 2: [CNN Modeling](https://github.com/DenaliCarpenter/Predicting-Pneumonia-from-Chest-X-rays/blob/main/Final%20CNN%20Modeling.ipynb)
-- Notebook 3: [Final Models for Pneumonia Detection in X-Rays¶](https://github.com/DenaliCarpenter/Predicting-Pneumonia-from-Chest-X-rays/blob/main/Final%20Modeling%20Steps.ipynb)
+- Notebook 3: [Final Models for Pneumonia Detection in X-Rays](https://github.com/DenaliCarpenter/Predicting-Pneumonia-from-Chest-X-rays/blob/main/Final%20Modeling%20Steps.ipynb)
 
 ## Contact and Further Information
 
